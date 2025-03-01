@@ -51,8 +51,11 @@ Install all the necessary dependencies for the project:
 npm install
 ```
 
-4. Start the development server:
+1. Start the development server:
 
 ```bash
 npm start
 ```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
