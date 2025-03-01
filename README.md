@@ -8,9 +8,7 @@ A simple counter application built with React, TypeScript, and Chakra UI. The ap
 
 ## Demo
 
-You can see the live demo of the app here: [Production URL](https://your-vercel-app-url.vercel.app)
-
-> Replace `your-vercel-app-url` with the actual URL you get from Vercel.
+You can see the live demo of the app here: [Production URL](https://yendau-assignment.vercel.app/)
 
 ## Technologies Used
 
